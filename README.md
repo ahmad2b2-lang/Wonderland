@@ -9,5 +9,3 @@ An illustrated picture-book web game: Amoona follows a rabbit through a glowing 
 ## Play
 
 Open `index.html` in a browser. Everything (pictures, music, code) is inside that one file.
-
-The treasure page shows `photo1.jpg`, which must sit in the same folder as `index.html`.
